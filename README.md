@@ -50,3 +50,39 @@ To add a profile page, create a file in the profiles directory with your GitHub 
 Add a `hello_world_yourusername.xx` script to the scripts directory in any programming language of your choice.
 
 Happy Hacking!
+Create an HTML File:
+
+Create a new HTML file in your repository's root directory and name it index.html.
+
+HTML Structure:
+
+Add the following HTML structure to your index.html file:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contributors</title>
+</head>
+<body>
+    <h1>Contributors</h1>
+    <form action="process_form.php" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br>
+
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" required><br>
+
+        <label for="github">GitHub:</label>
+        <input type="text" id="github" name="github" required><br>
+
+        <label for="linkedin">LinkedIn:</label>
+        <input type="text" id="linkedin" name="linkedin"><br>
+
+        <label for="dream">What I want to do before I die:</label>
+        <textarea id="dream" name="dream" rows="4" required></textarea><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
