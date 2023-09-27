@@ -6,7 +6,7 @@ Join CYBERSAMURAI in the open source celebration – Hacktoberfest awaits your c
 
 Use this project to make your contributions to open source projects on GitHub and be a part of the Hacktoberfest celebration. 
 
-!https://github.com/SimardeepSingh-zsh/Devilman-Crybaby/blob/main/360_F_563160606_NTA8Avd2pSpAu5BtorTsCU613rMWTnxY.jpg
+<img align="center" alt="Devilman_Crybaby" src="https://github.com/SimardeepSingh-zsh/Devilman-Crybaby/blob/main/360_F_563160606_NTA8Avd2pSpAu5BtorTsCU613rMWTnxY.jpg"/>
 
 ## What is Hacktoberfest?
 
