@@ -1,5 +1,3 @@
-#hacktoberfest #hacktoberfest2023 
-Join CYBERSAMURAI in the open source celebration – Hacktoberfest awaits your contributions! 🏔
 # 🎃 HacktoberFest 2023 🎃
 
 **Welcome to Hacktoberfest 2023!**
