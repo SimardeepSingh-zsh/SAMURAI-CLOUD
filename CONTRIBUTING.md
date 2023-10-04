@@ -26,3 +26,10 @@ To add your name to the list of contributors, follow this format:
 - Github: AaroneGeorge (https://github.com/AaroneGeorge)
 - LinkedIn: https://www.linkedin.com/in/aarone-george-8b6624208/
 - What I want to do before I die: Travel around the world!
+
+
+- Name: Solakunmi Oyedele (https://github.com/Jatamer)
+- Location: Nigeria
+- GitHub: Jatamer (https://github.com/Jatamer)
+- LinkedIn: https://www.linkedin.com/in/solakunmi-oyedele/ 
+- What I want to do before I die: Do great things!
